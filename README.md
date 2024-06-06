@@ -1,4 +1,4 @@
-# 2023 URP Python Course
+# 2024 URP Python Course
 
 The purpose of this course is to provide students with an introduction to the Python programming language in the context of biological data analysis. Python is a general-purpose programming language that is widely used around the world for scientific programming, web development, and software development. In the first three lectures we will cover the basics of working in Python. Then we will move into the specific aspects of Python relevant to biology and data science. The material is intended to be approachable for beginners, but we expect experienced programmers to benefit as well, especially starting in Lecture 4. 
 
