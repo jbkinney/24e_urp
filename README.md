@@ -15,7 +15,7 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 
 
 ## Schedule
-Classes are 120 min each. Days of the week, times, and locations vary. 
+Classes are 120 min each. Days of the week, times, and locations may vary. 
  
 1. **Introduction, Command Line, and GitHub.** (Justin, Jakub) Wed June 12, 3pm-5pm in Hawkins Conference Room (3514)
 2. **Data Types and Flow Control I.** (Justin) Fri June 14, 3pm-5pm in Hawkins Conference Room (3514)
@@ -24,4 +24,4 @@ Classes are 120 min each. Days of the week, times, and locations vary.
 5. **Datasets and Visualization II.** (Kaeli) Fri June 28, 3pm-5pm in Hawkins Conference Room (3514)
 6. **Genomic Data Analysis.** (Michael) Tues June 2, 3pm-5pm in Hawkins Conference Room (3514)
 7. **Image Data Analysis.** (Jakub)  Wed July 10, 3pm-5pm in Hawkins Conference Room (3514)
-8. **Neural Data Analysis.** (CiCi) Fri July 12, 3pm-5pm in **Wendt Conference Room (5513)**
+8. **Neural Data Analysis.** (CiCi) Fri July 12, 3pm-5pm in Hawkins Conference Room (3514)
