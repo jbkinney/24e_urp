@@ -8,7 +8,7 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Justin B. Kinney (jkinney@cshl.edu, http://kinneylab.labsites.cshl.edu/)
 
 ## Graduate student instructors:
-- Ziqi (Amber) Tang (ztang@cshl.edu)
+- Kaeli Rizzo (rizzo@cshl.edu)
 - Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
 - Michael Passalacqua (passala@cshl.edu)
 - Jakub Kaczmarzyk (kaczmar@cshl.edu)
@@ -16,11 +16,11 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 ## Schedule
 Classes are 120 min each. Days of the week, times, and locations vary. 
  
-1. **Introduction, Command Line, and GitHub.** (Justin, Jakub) Wed June 14, 3pm-5pm in Hawkins Conference Room (3514)
-2. **Data Types and Flow Control I.** (Justin) Fri June 16, 3pm-5pm in Hawkins Conference Room (3514)
-3. **Data Types and Flow Control II.** (CiCi) Wed June 21, 3pm-5pm in Hawkins Conference Room (3514)
-4. **Datasets and Visualization I.** (Amber) Fri June 23, 3pm-5pm in Hawkins Conference Room (3514)
-5. **Datasets and Visualization II.** (Jakub) Wed June 28, 3pm-5pm in Hawkins Conference Room (3514)
-6. **Genomic Data Analysis.** (Michael) Fri June 30, 3pm-5pm in Hawkins Conference Room (3514)
-7. **Neural Data Analysis.** (CiCi)  Wed July 5, 3pm-5pm in Hawkins Conference Room (3514)
-8. **Machine Learning.** (Amber) Fri July 7, 3pm-5pm in **Wendt Conference Room (5513)**
+1. **Introduction, Command Line, and GitHub.** (Justin, Jakub) Wed June 12, 3pm-5pm in Hawkins Conference Room (3514)
+2. **Data Types and Flow Control I.** (Justin) Fri June 14, 3pm-5pm in Hawkins Conference Room (3514)
+3. **Data Types and Flow Control II.** (CiCi) Tues June 18, 3pm-5pm in Hawkins Conference Room (3514)
+4. **Datasets and Visualization I.** (Kaeli) Wed June 26, 3pm-5pm in Hawkins Conference Room (3514)
+5. **Datasets and Visualization II.** (Kaeli) Fri June 28, 3pm-5pm in Hawkins Conference Room (3514)
+6. **Genomic Data Analysis.** (Michael) Tues June 2, 3pm-5pm in Hawkins Conference Room (3514)
+7. **Image Data Analysis.** (Jakub)  Wed July 10, 3pm-5pm in Hawkins Conference Room (3514)
+8. **Neural Data Analysis.** (CiCi) Fri July 12, 3pm-5pm in **Wendt Conference Room (5513)**
