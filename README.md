@@ -8,10 +8,11 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Justin B. Kinney (jkinney@cshl.edu, http://kinneylab.labsites.cshl.edu/)
 
 ## Graduate student instructors:
-- Kaeli Rizzo (rizzo@cshl.edu)
-- Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
-- Michael Passalacqua (passala@cshl.edu)
 - Jakub Kaczmarzyk (kaczmar@cshl.edu)
+- Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
+- Kaeli Rizzo (rizzo@cshl.edu)
+- Michael Passalacqua (passala@cshl.edu)
+
 
 ## Schedule
 Classes are 120 min each. Days of the week, times, and locations vary. 
