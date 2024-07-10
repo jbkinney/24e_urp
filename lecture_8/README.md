@@ -1,6 +1,5 @@
-## Machine learning lecture
+## Jupyter Notebooks
 
-This lecture gives an introduction to machine learning methods in python.
+- Lecture 8 P1: Data Analysis [![Open In Colab:](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/24e_urp/blob/main/lecture_8/L8_Neural_Data_Analysis_P1.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/24e_urp/blob/main/lecture_8/8_machine_learning.ipynb)
-
+- Lecture 8 P2: Modeling [![Open In Colab:](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/24e_urp/blob/main/lecture_8/L8_Neural_Data_Analysis_P2.ipynb)
